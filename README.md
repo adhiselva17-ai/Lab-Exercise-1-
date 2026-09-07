@@ -1,6 +1,7 @@
 # Lab-Exercise-1-
 NAME       :ADHI SELVAKUMAR R
 REGISTER NO:212225220003
+```
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate between them using real-world case studies, understand their relationship in digital product design, and demonstrate various UI/UX design tools.
 
 Algorithm
@@ -70,3 +71,4 @@ InVision	Prototyping, Design Collaboration, Feedback
 Canva	Basic UI Mockups and Graphic Design
 Result
 Successfully explored the fundamentals of UI and UX, differentiated them using real-world case studies, understood their relationship in product design, and studied various UI/UX design tools.
+```
