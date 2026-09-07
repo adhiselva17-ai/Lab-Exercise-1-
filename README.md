@@ -1,10 +1,10 @@
 # Lab-Exercise-1-
-NAME       :ADHI SELVAKUMAR R
-REGISTER NO:212225220003
-```
+#NAME       :ADHI SELVAKUMAR R
+#REGISTER NO:212225220003
+
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate between them using real-world case studies, understand their relationship in digital product design, and demonstrate various UI/UX design tools.
 
-Algorithm
+#Algorithm
 1. Explore the Fundamentals of UI and UX
 Study the basic concepts of User Interface (UI) and User Experience (UX).
 Understand the objectives and importance of UI and UX.
@@ -25,7 +25,7 @@ Study Adobe XD for wireframing and prototyping.
 Learn the basics of Sketch.
 Understand the purpose of InVision.
 Compare the features and applications of each tool.
-Output
+#Output
 (a) Fundamentals of UI and UX
 User Interface (UI): The visual part of a digital product that users interact with, including buttons, icons, layouts, colors, and typography.
 User Experience (UX): The overall experience of a user while interacting with a product, focusing on usability, accessibility, efficiency, and satisfaction.
@@ -69,6 +69,6 @@ Adobe XD	UI Design, Interactive Prototyping
 Sketch	Vector-based UI Design for macOS
 InVision	Prototyping, Design Collaboration, Feedback
 Canva	Basic UI Mockups and Graphic Design
-Result
+#Result
 Successfully explored the fundamentals of UI and UX, differentiated them using real-world case studies, understood their relationship in product design, and studied various UI/UX design tools.
-```
+
